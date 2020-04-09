@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Isabel Claire
+name: Quixote Technology
 
 # Username (this should match the folder name)
 authors:
