@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Quixote Technology is seeking to maintain national security and public health by tracking an individual’s immunization records.The current COVID-19 outbreak highlights the risk that pandemics pose to national security. Viruses and pathogens should be treated similarly to other more apparent national threats.
+Quixote Technology seeks to maintain national security and public health by tracking an individual’s immunization records.The current COVID-19 outbreak highlights the risk that pandemics pose to national security. Viruses and pathogens should be treated similarly to other more apparent national threats.
 
 Quixote Technology provides a solution that will be necessary as restrictions are eased following the COVID-19 pandemic and applicable on multiple scales.
 
