@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "credit-card"
   icon_pack = "far"
-  name = "Wallet interface"
+  name = "Wallet Interface"
   description = "Available on IOS"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "plane"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Integration with Flights and Air Travel"
+  description = ""  
   
 [[feature]]
   icon = "camera-retro"
