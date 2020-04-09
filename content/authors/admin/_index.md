@@ -25,7 +25,7 @@ Recipes:
 - Ravioli
 - Information Retrieval
 
-education:
+Dog Shows:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
