@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -69,6 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Isabel Claire is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Quixote Technology is seeking to maintain national security and public health by tracking an individual’s immunization records.The current COVID-19 outbreak highlights the risk that pandemics pose to national security. Viruses and pathogens should be treated similarly to other more apparent national threats.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Quixote Technology provides a solution that will be necessary as restrictions are eased following the COVID-19 pandemic and applicable on multiple scales.
+
