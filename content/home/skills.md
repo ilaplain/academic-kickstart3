@@ -24,12 +24,12 @@ subtitle = ""
   icon = "plane"
   icon_pack = "fas"
   name = "Integration with Flights and Air Travel"
-  description = ""  
+  description = "Displayed on Bording Pass"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "globe-americas"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Domestic Applications"
+  description = "Integration with border control and business hiring processes"
 
 +++
