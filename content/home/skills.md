@@ -18,7 +18,7 @@ subtitle = ""
   icon = "credit-card"
   icon_pack = "far"
   name = "Wallet Interface"
-  description = "Available on IOS"
+  description = "Vaccination records can be accessed easily on IOS and Android 'wallets'"
   
 [[feature]]
   icon = "plane"
