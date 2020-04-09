@@ -23,8 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "plane"
   icon_pack = "fas"
-  name = "Integration with Flights and Air Travel"
-  description = "Displayed on Bording Pass"  
+  name = "International Applications"
+  description = "Integration with flights and air travel displayed on bording pass"  
   
 [[feature]]
   icon = "globe-americas"
